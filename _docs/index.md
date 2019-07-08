@@ -1,50 +1,23 @@
 ---
-title: Welcome
+title: Welcome To The OpenJGE2D Docs
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
 ## Getting started
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
+Because the engine is still heavily under development, there isn't much to talk about here regarding getting started with using OpenJGE2D. With that being said, if you're curious, feel free to check out the engine source code [here](https://github.com/OpenJGE/OpenJGE2D).
 
-1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
-
-## Writing content
+## Navigating The Site
 
 ### Docs
 
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
+The Docs section includes all formal project documentation, including documents detailing engine design, usage guides, and the engine's API.
 
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
+### Learning Resources
 
-```
----
-title: My Page
-permalink: /docs/my-page/
----
+The Learning Resources section contains a collection of resources that can be used to learn about making a game engine from start to finish. This will include my own work, as well as links to articles and websites that do a much better job at explaining topics than I could ever attempt to.
 
-Hello World!
-```
+### Blog
 
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
-
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
-### Pages
-
-The homepage is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap components](http://getbootstrap.com/components/))
-
-In order to add a new page, create a new `.html` or `.md` (markdown) file under root directory and link it in `_includes/topnav.html`.
+The Blog is your way to keep up with OpenJGE2D's development, as well as to see how the project has progressed since its creation. I'll generally write logs to announce, discuss, or reflect on notable events during development, so there isn't a structured schedule for logs, although I will try to write them as frequently as possible. The Blog is also a great way to learn more about the day-to-day work that goes into actually making a game engine (although I can't promise you it's the *right* way to make an engine), and thus serves as a bit of a combination of both documentation and learning resources.
