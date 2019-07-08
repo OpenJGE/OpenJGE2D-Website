@@ -17,8 +17,8 @@ openjge-dev
 ### References
 Engine Architecture:
 
-![Whoops - no image :(](/OpenJGE2D-Website/img/posts/Engine-Architecture-Page-1.jpg "Engine Architecture - Page 1")
+![Whoops - no image :(](https://openjge.github.io/OpenJGE2D-Website/img/posts/Engine-Architecture-Page-1.jpg "Engine Architecture - Page 1")
 
 ---
 
-![Whoops - no image :(](/OpenJGE2D-Website/img/posts/Engine-Architecture-Page-2.jpg "Engine Architecture - Page 2")
+![Whoops - no image :(](https://openjge.github.io/OpenJGE2D-Website/img/posts/Engine-Architecture-Page-2.jpg "Engine Architecture - Page 2")
