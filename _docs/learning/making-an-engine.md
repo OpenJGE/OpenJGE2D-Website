@@ -28,6 +28,8 @@ A useful tool for building Java Projects.
 #### IntelliJ IDEA
 My personal favourite Java IDE.
 - [Discover IntelliJ IDEA](https://www.jetbrains.com/help/idea/discover-intellij-idea.html?section=Windows) - Navigating the IDE
+- [Unit Testing](https://www.youtube.com/watch?v=QDFI19lj4OM) - A short video depicting how to create and run unit tests in IntelliJ
+- [Unit Testing Guide](https://www.jetbrains.com/help/idea/configuring-testing-libraries.html?section=Windows) - See all articles under the **Testing** section
 
 #### Git & GitHub
 Two of the most popular version control systems.
