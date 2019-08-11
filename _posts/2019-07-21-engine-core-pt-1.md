@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Engine Core Design"
+title: "Engine Core Design - Part 1"
 date: 2019-07-21 22:30:00
 author: openjge-dev
 ---
