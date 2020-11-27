@@ -5,7 +5,7 @@ description: >
   The official documentation of the Open Java Game Engine 2D.
 lang: en-US
 
-baseurl: "/OpenJGE2D-Website/" # the subpath of your site, e.g. /blog/
+baseurl: "/OpenJGE2D-Website" # the subpath of your site, e.g. /blog/
 url: https://openjge.github.io # the base hostname & protocol for your site
 git_address: https://github.com/openjge/OpenJGE2D
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
